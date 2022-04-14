@@ -27,7 +27,13 @@
   width: 500px;
   margin: auto;
   margin-top: 100px;
-  background-color: green;
+  background-image: url(/assets/images/basketball.JPG);
+  background-repeat: no-repeat;
+}
+
+.quiz-question >h1 {
+    font-size: 30px;
+    color: aliceblue;
 }
 
 .btn-quiz {
@@ -41,7 +47,7 @@
     text-decoration: none;
     color: #56a5eb;
     background-color: white;
-    
+
 }
 
 
